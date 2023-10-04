@@ -1,0 +1,32 @@
+.navcolor{
+    background-color: black;
+}
+
+.navcolor a{
+    color:white;
+}
+
+.navcolor img{
+    width: 100px;
+}
+
+.navcolor a:hover{
+    color:purple;
+}
+
+.titulo{
+    font-family: 'Pixelify Sans', cursive;
+    font-size: 60px;
+}
+
+main{
+    text-align: center;
+}
+
+section{
+    margin-top: 200px;
+}
+
+#fundo{
+    background-color: rgb(226, 110, 255);
+}
